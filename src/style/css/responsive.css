@@ -1,0 +1,1495 @@
+@media only screen and (max-width: 1499px) {
+
+    /****login *****/
+    .login-form-section .input-section h2 {
+        font-size: 22px;
+    }
+
+    /*Dashboard*/
+    a.list-group-item.list-group-item-action.active, a.list-group-item.list-group-item-action {
+        font-size: 15px;
+    }
+
+    .request-section h5, .rank-section h6, .usertime-id p {
+        font-size: 16px;
+        line-height: 16px;
+    }
+
+    .pro-content h5 {
+        font-size: 16px !important;
+        line-height: 16px !important;
+    }
+
+    .request-section h6, .course-no p, .on-site-head h5, .netflix-head h6, .moti-head h5, a.add-stack, .date-form label {
+        font-size: 14px;
+        line-height: 14px;
+    }
+
+
+    .course-no h5, .leader-board h5 {
+        font-size: 20px;
+        line-height: 20px;
+    }
+
+    .course.book {
+        padding: 15px 10px;
+    }
+
+    .course-no {
+        padding-left: 10px;
+    }
+
+    .on-site-head p, .netflix-head p, .moti-head p {
+        font-size: 12px;
+        line-height: 12px;
+    }
+
+    .pro-content p {
+        font-size: 13px;
+        line-height: 13px;
+    }
+
+    .mobile-menu h3 {
+        font-size: 21px;
+    }
+
+    .notification_body_main {
+        margin: 18px 20px 18px 20px;
+    }
+
+    .update-btn a {
+        padding: 8px 14px;
+    }
+
+    .modal-body.mail-sent-deatil h5 {
+        font-size: 20px;
+    }
+
+    .modal-footer a.btn-send {
+        font-size: 16px;
+    }
+
+    /***add -stack**/
+    .tech-stack h5 {
+        font-size: 20px;
+    }
+
+    .table-responsive.any-role th, .table-responsive.any-role td, .notification_popup_text p {
+        font-size: 14px;
+        line-height: 14px;
+    }
+
+    .warning p, .warning h6, .modal-body.mail-sent-deatil p {
+        font-size: 14px;
+    }
+
+    .notification_popup_head {
+        padding: 20px 18px 18px 20px;
+    }
+
+    .modal-body.delete-sent-deatil h5, .notification_popup_head h5 {
+        font-size: 20px;
+    }
+
+    .post-content h3, .notification_popup_head a {
+        font-size: 16px;
+    }
+
+    .resume-course a, .nav-link.tab-list {
+        font-size: 14px;
+    }
+
+    .date-form input, .date-form select, .search-items img, button.rotate {
+        padding: 10px;
+    }
+
+    .nav-link.tab-list {
+        padding: 15px 20px;
+    }
+
+    .modal-content.mail-detail {
+        padding: 20px;
+    }
+
+    .genral-infor h6 {
+        font-size: 18px;
+    }
+
+    .genral-infor h6, .admin-profile p {
+        font-size: 16px;
+    }
+
+    input#fname, input#lname, input#c-pass, input#n-pass, input#rest-password {
+        font-size: 16px;
+    }
+
+    /****Productive rate***/
+    .journey-timeline h6 {
+        font-size: 18px;
+    }
+
+    .stage-date p, .time-stage h5 {
+        font-size: 14px;
+    }
+
+    .journey-timeline {
+        padding: 18px;
+    }
+
+    /*****Registration*/
+    .modal-body.register-main-detail h6 {
+        font-size: 20px;
+    }
+
+    .resume-name h5 {
+        font-size: 18px;
+    }
+
+    .aspirant-data p {
+        font-size: 16px;
+    }
+
+    /*****Master data*****/
+    .contact-detail p, .join p, a.edit-master, .personal-about a {
+        font-size: 13px;
+    }
+
+    .job-radio h5, .document-detail h6, .personal-head h5, .job-radio label, .personal-details h5, .social h5 {
+        font-size: 16px;
+    }
+
+    .m-pf-detail h5 {
+        font-size: 18px;
+    }
+
+    .personal-details h6, .personal-details p, .m-pf-detail h6, .join h5, .proof-detail h5, .proof-detail p {
+        font-size: 14px;
+    }
+}
+
+@media only screen and (max-width: 1455px) {
+    /* .date-form {
+        margin-right: 10px;
+    } */
+
+
+    /*****registration*****/
+    .resume-form label {
+        font-size: 14px;
+    }
+
+    a.g-access {
+        margin-top: unset;
+    }
+
+
+    /****Master data****/
+    .aspirant-data h5 {
+        font-size: 18px;
+    }
+
+}
+
+@media only screen and (max-width: 1399px) {
+
+    .date-section::after {
+        border: none;
+    }
+
+
+}
+
+@media only screen and (max-width:1366px) {
+    .user-data, .document-detail, .job-status {
+        padding: 15px;
+    }
+
+    .master-profile {
+        padding: 18px;
+    }
+
+    /* 
+    .personal-contact {
+        margin-right: 5px;
+    } */
+
+    .job-radio h5 {
+        padding-bottom: 18px;
+    }
+
+    /***Master Data****/
+    .social span {
+        margin-right: 10px;
+    }
+
+    .master-personl {
+        justify-content: unset !important;
+    }
+}
+
+@media only screen and (max-width:1323px) {
+    .contact-detail {
+        margin-bottom: 10px;
+        margin-right: 10px;
+    }
+}
+
+@media only screen and (max-width: 1099px) {
+    .rank-table td, .rank-table th {
+        padding: 15px;
+        font-size: 14px;
+    }
+
+
+    .rank-table {
+        padding: 15px;
+    }
+
+    .resume-course {
+        padding: 12px;
+    }
+
+    a.add-stack {
+        font-size: 14px;
+    }
+
+    .tech-stack h5, .empty-state h5 {
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+
+    /***Productive rate****/
+    .stage-date p {
+        padding: 10px;
+    }
+
+    /****master data**/
+    .job-radio label {
+        font-size: 14px;
+    }
+}
+
+@media only screen and (max-width:1080px) {
+
+    /* .main-bg.masterdata .course.book{
+        width: fit-content;
+    } */
+    .m-group-five.course.book {
+        width: fit-content;
+    }
+
+    .job-radio h5, .document-detail h6, .personal-head h5, .job-radio label, .personal-details h5, .social h5 {
+        font-size: 14px;
+    }
+
+    .m-pf-detail h5 {
+        font-size: 16px;
+    }
+
+    .personal-details h6, .personal-details p, .m-pf-detail h6, .join h5, .proof-detail h5, .proof-detail p {
+        font-size: 12px;
+    }
+}
+
+@media only screen and (max-width:1024px) {
+
+    /****login *****/
+    .login-form-section .logo {
+        width: 170px;
+    }
+
+    .login-form-section .input-section h2 {
+        font-size: 24px;
+        margin: 24px 0;
+    }
+
+    /*dashboard*/
+    .primary-bg.menu-section {
+        width: 90px;
+
+    }
+
+    .top-head {
+        display: none;
+    }
+
+    .mobile-logo {
+        display: block;
+    }
+
+    a.list-group-item.list-group-item-action span {
+        margin-left: 35px;
+    }
+
+    a.list-group-item.list-group-item-action.active svg {
+        margin-left: 4px;
+    }
+
+    nav.navbar.navbar-expand-lg.dashboard-content {
+        width: calc(100% - 95px);
+        padding-top: 10px;
+    }
+
+    .mobile-menu i {
+        display: block;
+        margin-right: 14px;
+
+    }
+
+    .toggled a.list-group-item.list-group-item-action span {
+        margin-left: 10px;
+    }
+
+    .toggled .menu-section {
+        width: 95px;
+        transition: 2s all;
+    }
+
+    .toggled .primary-bg.menu-section {
+        width: 240px;
+        transition: 2s all;
+    }
+
+    .left-section {
+        margin-bottom: 24px;
+    }
+
+    .right-section {
+        margin-top: 20px;
+    }
+
+    .left-section, .right-section {
+        width: 100%;
+    }
+
+    .event-btn a {
+        display: block;
+        width: fit-content;
+    }
+
+    .rank-table td, .rank-table th {
+        padding: 13px;
+        font-size: 12px;
+    }
+
+    .rank-table {
+        padding: 10px;
+    }
+
+    .bar-content {
+        margin-bottom: 15px;
+    }
+
+    .modal-body.notification_popup_body {
+        max-width: 80%;
+    }
+
+    .modal-body.mail-sent-deatil h5 {
+        font-size: 18px;
+    }
+
+    /***Learning page*****/
+    .learning-stack h5, .notification_popup_head h5 {
+        font-size: 18px;
+    }
+
+    a.add-stack {
+        font-size: 14px;
+        padding: 10px;
+    }
+
+    .modal-body.delete-sent-deatil h5 {
+        font-size: 18px;
+    }
+
+    .modal-body.delete-sent-deatil p, .usertime-id p, .notification_popup_head a {
+        font-size: 14px;
+    }
+
+    .modal-content.delete-detail {
+        padding: 10px 20px 20px;
+    }
+
+    .delete-button .btn-cancel, .delete-button .btn-create {
+        padding: 10px 0;
+        width: 150px;
+    }
+
+    .genral-infor {
+        padding: 15px;
+    }
+
+    .stages-one .stage-date::after, .stages-two .stage-date::after, .stages-three .stage-date::after, .stages-four .stage-date::after {
+        width: 120px;
+    }
+
+    .mail-receive h5 {
+        font-size: 18px;
+    }
+
+    .resume-form input::placeholder {
+        font-size: 16px;
+    }
+
+    .m-group-one, .m-group-two, .m-group-three, .m-group-four, .m-group-five {
+        margin-bottom: 20px;
+    }
+
+    /****master data*****/
+    .designer-detail {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .designer-information {
+        width: 100%;
+    }
+
+    .contact-detail p, .join p, a.edit-master, .personal-about a {
+        font-size: 12px;
+    }
+
+
+}
+
+@media only screen and (max-width:991px) {
+
+    /****login *****/
+    .login-section-admin {
+        display: none;
+    }
+
+    .input-section h2 {
+        font-size: 20px;
+    }
+
+    .input-section label, p.login-forget {
+        font-size: 16px;
+    }
+
+    .modal-footer a.btn-send {
+        font-size: 14px;
+    }
+
+    .modal-body.mail-sent-deatil h5 {
+        font-size: 16px;
+    }
+
+    .input-section label {
+        margin-bottom: 10px;
+    }
+
+    input#email, input#password {
+        padding: 7px 10px !important;
+    }
+
+    .input-section h2, input#email, input#password {
+        font-size: 20px;
+    }
+
+    .login-form-section {
+        width: 100%;
+        /* align-items: unset; */
+    }
+
+    .login-btn a {
+        font-size: 16px;
+    }
+
+    .login-form {
+        padding: 20px;
+    }
+
+    .login-form-section .input-section h2 {
+        font-size: 22px;
+    }
+
+    .notification_popup_head, .training-material h5 {
+        font-size: 18px;
+    }
+
+    /**Dashboard**/
+    .toggled .menu-section {
+        left: -250px;
+        transition: 2s all;
+    }
+
+    .toggled .primary-bg.menu-section {
+        left: 0;
+        z-index: 999;
+        transition: 2s all;
+    }
+
+    .pf-detail {
+        margin-bottom: 20px;
+    }
+
+    .mobile-menu h3 {
+        font-size: 20px;
+    }
+
+    .mobile-menu i {
+        font-size: 20px;
+    }
+
+    .stack-img {
+        width: 300px;
+        height: 280px;
+    }
+
+    .modal-content.stack-poup {
+        width: 80%;
+        padding: 20px;
+        margin: auto;
+    }
+    #question .modal-content.stack-poup {
+        width: 96%;
+    }
+    .resume-course a, .tech-name-list span {
+        font-size: 13px;
+        line-height: 13px;
+    }
+    .question-paper span{
+        font-size: 14px;
+    }
+    .question-paper{
+        margin-bottom: 15px;
+    }
+
+    a.mycourse {
+        font-size: 16px;
+    }
+
+    /* a.webc {
+        font-size: 16px;
+    } */
+    /* .web-course {
+        padding-bottom: 20px;
+    } */
+    .ad-sck li.breadcrumb-item a, li.breadcrumb-item.active {
+        font-size: 16px;
+    }
+
+    .course-view {
+        padding-top: 25px;
+    }
+
+    .tech-stack h5 {
+        font-size: 18px;
+    }
+
+    .stack-tablecontent {
+        margin-bottom: 20px;
+    }
+
+    .warning p, .warning h6 {
+        font-size: 12px;
+        margin-right: 8px;
+    }
+
+    .delete-button .btn-cancel, .delete-button .btn-create {
+        width: 100px;
+        font-size: 14px;
+    }
+
+    /* .modal-content.delete-detail{
+        padding: 10px;
+    } */
+    .del-icon {
+        width: 50px;
+        height: 50px;
+        padding: 10px;
+    }
+
+    .thumb {
+        margin-bottom: 30px;
+    }
+
+    .radio-value {
+        margin-bottom: 20px;
+    }
+
+    .date-header, .progress-detail {
+        padding: 15px;
+    }
+
+    .nav-link.tab-list {
+        padding: 10px;
+        font-size: 12px;
+    }
+
+    .date-form label, .date-form input, .date-form, button.rotate, .date-form select {
+        font-size: 12px;
+    }
+
+    a.page-link, .pagnation-left h3 {
+        font-size: 13px;
+    }
+
+    .notification_popup_head h5 {
+        font-size: 16px;
+    }
+
+    .notification_popup_head a {
+        font-size: 12px;
+    }
+
+    .notification_popup_head a {
+        font-size: 12px;
+    }
+
+    .notification_body_main {
+        margin: 10px;
+    }
+
+    /***Profile Page****/
+    .vertical-tabs {
+        min-height: unset;
+    }
+
+    .myprofile-page .mobile-menu i {
+        display: none;
+    }
+
+    .page-security {
+        flex-direction: row !important;
+    }
+
+    .login-name {
+        margin-right: 10px;
+        width: fit-content;
+    }
+
+    .genral-infor .input-detail {
+        display: block !important;
+    }
+
+    .profile-creation {
+        padding: 20px 0;
+    }
+
+    input#fname, input#lname, input#c-pass, input#n-pass, input#rest-password {
+        margin-bottom: 10px;
+        font-size: 14px;
+    }
+
+    li.nav-item.pro-security {
+        margin-bottom: 0;
+    }
+
+    .profile-edit-btn {
+        margin: 10px 0 20px 0;
+    }
+
+    .login-name label, a.btn.save, a.btn.cancel, .profile-edit-btn a.btn.re-submit, a.nav-link.pro-list-item, .genral-infor h6, .admin-profile p {
+        font-size: 14px;
+    }
+
+    .genral-infor .i-icon {
+        top: 45%
+    }
+
+    /*****Registration*/
+    .reg-img {
+        margin: auto;
+        padding-bottom: 10px;
+    }
+
+    .modal-body.register-main-detail h6, .modal-body.register-main-detail p, .mailid-detail {
+        text-align: center;
+    }
+
+    .modal-body.modal-body.register-main-detail h6 {
+        font-size: 18px;
+    }
+
+    #add-new-register .modal-content {
+        width: 80%;
+        margin: auto;
+    }
+
+    body.register-main-detail p, .modal-body.register-main-detail h5 {
+        font-size: 14px;
+    }
+
+    .input-send-btn input#popup-email, .input-send-btn a {
+        padding: 10px 12px;
+        font-size: 14px;
+    }
+
+    .reg-img {
+        width: 230px;
+    }
+
+    .input-send-btn {
+        justify-content: center;
+    }
+
+    .resume-name h5 {
+        font-size: 16px;
+    }
+
+    a.g-access {
+        margin-top: 20px;
+    }
+
+    .resume-name a {
+        font-size: 12px;
+        padding: 8px 12px;
+    }
+
+    .resume-form input, .login-first.error select {
+        padding: 8px 12px !important;
+    }
+
+    .resume-form .date-icon {
+        right: 20px;
+        bottom: 24px;
+    }
+
+    .resume-form input, .login-first.error select {
+        margin-bottom: 15px;
+    }
+
+    .resume-form input::placeholder {
+        font-size: 14px;
+    }
+
+    /*****Master Data*****/
+
+    .aspirant-data p, .aspirant-data h6 {
+        font-size: 14px;
+    }
+
+    .aspirant-data h5 {
+        font-size: 16px;
+    }
+
+    .master-profile {
+        margin-bottom: 20px;
+    }
+
+    .job-radio h5, .document-detail h6, .personal-head h5, .job-radio label, .personal-details h5, .social h5 {
+        font-size: 12px;
+    }
+
+    .m-pf-detail h5 {
+        font-size: 14px;
+    }
+
+    .personal-details h6, .personal-details p, .m-pf-detail h6, .join h5, .proof-detail h5, .proof-detail p {
+        font-size: 11px;
+    }
+
+    /***training plan***/
+    .course-progress p, .course-progress h6 {
+        font-size: 12px;
+    }
+
+    /****productive rate****/
+    .journey-timeline h6 {
+        font-size: 16px;
+    }
+    #add-certificate .stack-poup{
+        padding: 20px;
+    }
+
+
+}
+
+@media only screen and (max-width: 767px) {
+
+    /****login *****/
+    .login-btn {
+        padding: 10px 0;
+    }
+
+    .logo {
+        width: 160px;
+        height: 76px;
+    }
+
+    .check-btn a.btn.btn-send {
+        font-size: 12px;
+    }
+
+    .login-form-section .input-section h2 {
+        font-size: 20px;
+    }
+
+    /****Dashboard*/
+    nav.navbar.navbar-expand-lg.dashboard-content .mobile-logo.top {
+        display: block;
+        padding: 16px 4px;
+        height: 75px;
+    }
+
+    nav.navbar.navbar-expand-lg.dashboard-content {
+        width: 100%;
+        padding-left: 0;
+        height: 75px;
+    }
+
+    .main-bg {
+        margin-top: 75px;
+    }
+
+    .primary-bg.menu-section {
+        position: absolute;
+        left: -250px;
+        transition: 2s all;
+    }
+
+    .mobile-menu {
+        margin-left: 66px;
+    }
+
+    .course-no h5, .leader-board h5 {
+        font-size: 18px;
+        line-height: 18px;
+    }
+
+    .pro-content h5 {
+        font-size: 16px;
+        line-height: 16px;
+    }
+
+    .rank-table td, .rank-table th {
+        font-size: 14px;
+        line-height: 14px;
+    }
+
+    .event-btn a {
+        font-size: 12px;
+        line-height: 12px;
+    }
+
+    .bar-content h5 {
+        font-size: 16px;
+    }
+
+    .usercourse-1, .usercourse-2 {
+        margin-bottom: 20px;
+    }
+
+    nav.navbar.navbar-expand-lg.dashboard-content {
+        padding-right: 12px;
+    }
+
+    .mobile-menu h3 {
+        font-size: 18px;
+    }
+
+    .stack-img {
+        width: 250px;
+        height: 220px;
+    }
+
+    .learning-stack h5 {
+        font-size: 16px;
+    }
+
+    a.add-stack, .usertime-id p {
+        font-size: 12px;
+    }
+
+    .modal-header.stack-head h5 {
+        font-size: 18px;
+    }
+
+    .stack-count label, .upload-img p, textarea#des-text, .stack-count input {
+        font-size: 14px;
+    }
+
+    .stack-count input {
+        font-size: 14px;
+        margin-bottom: 20px;
+        padding: 11px 0 11px 15px;
+    }
+
+    .modal-footer.cre-can .btn {
+        padding: 9px 12px;
+        font-size: 14px;
+    }
+
+    .tech-stack h5, .empty-state h5 {
+        font-size: 18px;
+    }
+
+    .modal-footer.cre-can {
+        flex-wrap: unset;
+    }
+
+    .table-responsive.any-role th, .table-responsive.any-role td {
+        font-size: 13px;
+    }
+
+    .warning {
+        padding: 10px;
+        padding-left: 0;
+    }
+
+    .stack-tablecontent .warning {
+        padding-left: 0;
+    }
+
+    /* a.webc, .right-arrow {
+        margin-bottom: 10px !important;
+    } */
+
+    .stack-tablecontent {
+        padding: 15px 18px;
+    }
+
+    .ad-sck li.breadcrumb-item a, li.breadcrumb-item.active {
+        font-size: 14px;
+    }
+
+    .paste {
+        top: 40px
+    }
+
+    .modal-content.project-video {
+        padding: 12px 12px 30px 20px;
+    }
+
+    .proj-title p, textarea#des-text, .proj-title label, .descript label {
+        font-size: 14px;
+    }
+
+    .descript p {
+        font-size: 14px;
+    }
+
+    .proj-title {
+        margin-bottom: 30px;
+    }
+
+    .modal-body.project-stack {
+        padding-bottom: 0;
+    }
+
+    .modal-footer.project-button {
+        padding: 5px;
+        /* justify-content: unset; */
+    }
+
+    button.btn.btn-cancel {
+        margin-right: 5px;
+    }
+
+    .add-pro-btn {
+        top: 35px;
+        padding: 5px;
+        font-size: 12px;
+    }
+
+    ol.breadcrumb.ad-sck {
+        margin-bottom: 15px;
+    }
+
+    .tech-stack {
+        flex-direction: column;
+    }
+
+    .training-plan-content .tech-stack {
+        flex-direction: row;
+    }
+
+    a.page-link, .pagnation-left h3, select.pagnation-count {
+        font-size: 11px;
+
+    }
+
+    .pagenation-section {
+        padding: 5px;
+        justify-content: center;
+    }
+
+    .date-section {
+        justify-content: unset;
+    }
+
+    .date-form, .src-button {
+        margin-bottom: 10px;
+    }
+
+    .date-header {
+        padding: 10px;
+    }
+
+    /***profile page*****/
+    .myprofile-page nav.navbar.navbar-expand-lg.dashboard-content {
+        width: 100%;
+    }
+
+    .myprofile-page .mobile-menu i {
+        display: block;
+    }
+
+    a.btn.save, a.btn.cancel{
+        font-size: 12px;
+    }
+    .login-btn a {
+        font-size: 14px;
+    }
+
+    input#fname, input#lname, input#c-pass, input#n-pass, input#rest-password {
+        font-size: 12px;
+        padding: 10px;
+    }
+
+    a.nav-link.pro-list-item {
+        font-size: 14px;
+    }
+
+    .login-name {
+        margin-right: 0;
+    }
+
+    a.btn.save, a.btn.cancel {
+        padding: 15px;
+    }
+
+    .profile-edit-btn a {
+        padding: 10px 15px;
+        font-size: 12px !important;
+    }
+
+    .genral-infor h6, .admin-profile p {
+        font-size: 12px;
+    }
+
+    /******Registration*****/
+    .modal-body.register-main-detail {
+        padding: 0 15px 15px;
+    }
+
+    .reg-img {
+        width: 230px;
+    }
+
+    .modal-body.modal-body.register-main-detail h6 {
+        font-size: 16px;
+    }
+
+    .mail-receive h5 {
+        font-size: 16px;
+    }
+
+    .access-btn a {
+        font-size: 14px;
+    }
+
+    .resume-details {
+        padding: 15px;
+    }
+
+    .resume-form input::placeholder {
+        font-size: 12px;
+    }
+
+    .modal-body.delete-sent-deatil h5 {
+        font-size: 16px;
+    }
+
+    .modal-footer.delete-button {
+        margin-top: unset;
+    }
+
+    /*******Master Data**********/
+    .aspirant-data p, .aspirant-data h6 {
+        font-size: 12px;
+    }
+
+    .aspirant-data h5 {
+        font-size: 14px;
+    }
+
+    .join {
+        margin-bottom: 10px;
+    }
+
+    .contact-detail {
+        margin-bottom: 10px;
+    }
+
+    a.edit-master {
+        padding: 8px 16px;
+        display: block;
+        margin-top: 10px;
+    }
+
+
+    /*****training plan****/
+    .course-progress p, .course-progress h6 {
+        font-size: 12px;
+    }
+
+    .tech-name-list span {
+        margin-right: 15px;
+        font-size: 12px;
+    }
+
+    .modal-content.tech-material {
+        padding: 20px;
+    }
+
+    .training-material h5 {
+        font-size: 16px;
+    }
+
+    /****Productive rate****/
+    .stage-flow:after {
+        width: 1px !important;
+        height: 47px !important;
+        content: "";
+        display: block;
+        position: absolute;
+        right: unset !important;
+        top: -45px !important;
+        z-index: 10;
+        left: 50%;
+    }
+
+    .stage-flow {
+        position: relative;
+        display: flex;
+        align-items: center;
+        padding-bottom: 46px;
+        justify-content: center;
+    }
+
+    .stage-flow {
+        flex-wrap: wrap;
+        width: fit-content;
+        text-align: center;
+        max-width: 163px;
+        background-color: #fff;
+        z-index: 999;
+        width: 100%;
+        margin: auto;
+    }
+    .stage-level {
+        display: flex;
+        flex-direction: column;
+    }
+    .block {
+        width: 100% !important;
+    }
+    .block:after {
+        content: unset !important;
+    }
+    p.productive-time, p.btm-content, .block {
+        font-size: 12px;
+    }
+    #add-certificate .add-events-page {
+        width: 100%;
+    }
+    #add-certificate .calen-clock, .calender-clock{
+        top:13px;
+    }
+    #add-certificate .add-events-page input{
+        padding-right: 18px;
+    }
+    .upload-img p, .edit-upload-img p, .add-certificate-img p{
+        font-size: 14px;
+    }
+    button.down {
+        font-size: 14px;
+    }
+}
+
+@media only screen and (max-width: 645px) {
+    .job-detail {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+}
+
+@media only screen and (max-width: 575px) {
+    p.copyright {
+        padding-left: 10px;
+    }
+
+    .dropdown.pf-content {
+        display: none;
+    }
+
+    .course-no h5 {
+        font-size: 16px;
+    }
+
+    .mobile-menu h3 {
+        font-size: 17px;
+    }
+
+    .usercourse-1, .usercourse-2, .usercourse-3, .usercourse-4 {
+        margin-bottom: 20px;
+    }
+
+    .profile-section {
+        margin-left: 10px;
+    }
+
+    .mobile-menu {
+        margin-left: 60px;
+    }
+
+    nav.navbar.navbar-expand-lg.dashboard-content {
+        padding-right: 5px;
+        /* height: 75px; */
+    }
+
+
+    .modal-content.stack-poup {
+        padding: 12px;
+    }
+
+    .modal-header.stack-head h5 {
+        font-size: 16px;
+    }
+
+    .tech-stack h5, .empty-state h5 {
+        font-size: 16px;
+    }
+
+    .resume-course {
+        padding: 7px;
+    }
+
+    .post-content h3 {
+        font-size: 14px;
+    }
+
+    .right-arrow {
+        margin: 0 3px;
+    }
+
+    .learning-stack h5 {
+        font-size: 14px;
+    }
+
+    .modal-footer.cre-can .btn {
+        font-size: 12px;
+    }
+
+    .project-button .btn-cancel, .project-button .btn.btn-create {
+        width: 100px;
+        padding: 11px 12px;
+        font-size: 12px;
+    }
+
+    .modal-footer.project-button img {
+        padding-right: 4px;
+    }
+
+    .proj-title p, textarea#des-text, .proj-title label, .descript label {
+        font-size: 12px;
+    }
+
+    .proj-title {
+        margin-bottom: 15px;
+    }
+
+    .pro-month {
+        flex-wrap: wrap;
+    }
+
+    .pro-month select {
+        margin-left: 0;
+        padding: 5px;
+    }
+
+    .tech-name.form-tech.duration input {
+        width: 100%;
+    }
+
+    .add-pro-btn a {
+        font-size: 14px;
+    }
+
+    .react-js p {
+        font-size: 12px;
+    }
+
+    .project-name {
+        margin-bottom: 24px;
+    }
+
+    a.page-link {
+        padding: 8px;
+        font-size: 10px;
+    }
+
+    .pagenation-section {
+        padding: 0px;
+    }
+
+    .ad-sck li.breadcrumb-item a, li.breadcrumb-item.active {
+        font-size: 12px;
+    }
+
+    .as-tabs {
+        padding: 0;
+    }
+
+    .nav-link.tab-list {
+        padding: 8px;
+        font-size: 11px;
+    }
+
+    .user-timesheet {
+        display: block !important;
+        margin-bottom: 15px;
+    }
+
+    .usertime-id::after {
+        border: unset;
+    }
+
+    /*****Registration*****/
+    .input-send-btn a {
+        margin-top: 10px;
+    }
+
+    .input-send-btn {
+        flex-direction: column;
+    }
+
+    .input-send-btn input#popup-email {
+        margin-right: 0;
+    }
+
+    .reg-img {
+        width: 200px;
+    }
+
+    .resume-name h5 {
+        font-size: 14px;
+    }
+
+    .resume {
+        margin-right: 5px;
+    }
+
+    .resume-form {
+        margin-top: 15px;
+    }
+
+    .resume-name a {
+        padding: 8px;
+    }
+
+    a.g-access {
+        margin-top: unset;
+    }
+
+    .modal-body.delete-sent-deatil p {
+        font-size: 12px;
+    }
+
+    /*****Master data******/
+    .personal-about {
+        flex-direction: column;
+    }
+
+    .personal-about a {
+        margin-top: 10px;
+        display: block;
+    }
+
+    .technology-job {
+        flex-direction: column;
+        align-items: flex-start !important;
+    }
+
+    .job-data {
+        margin-bottom: 10px;
+    }
+
+    .personal-head p {
+        font-size: 12px;
+    }
+
+    /****training plan****/
+    .modal-content.tech-material {
+        width: 90%;
+    }
+    #add-certificate .stack-poup{
+        padding: 12px;
+    }
+    #certificate-download .stack-head h5{
+        font-size: 14px;
+    }
+    button.down {
+        font-size: 12px;
+    }
+}
+
+@media only screen and (max-width: 425px) {
+    p.copyright {
+        padding-right: 0;
+    }
+
+    .mobile-menu i {
+        margin-right: 10px;
+    }
+
+    a.mycourse, .tech-stack h5 {
+        font-size: 14px;
+    }
+
+    /* a.webc {
+        font-size: 12px;
+    } */
+
+    a.add-stack {
+        padding: 6px;
+    }
+
+    .web-course {
+        padding: 0 5px 15px;
+    }
+
+    /* .tech-stack h5 {
+        padding-bottom: 16px;
+    } */
+
+    .learning-section {
+        padding: 12px;
+    }
+
+    .stack-count label, .stack-count input, .upload-img p, textarea#des-text {
+        font-size: 12px;
+    }
+
+    .project-button .btn-cancel, .project-button .btn.btn-create {
+        width: fit-content;
+    }
+
+    .add-pro-btn a {
+        font-size: 12px;
+    }
+
+    .react-js {
+        margin-bottom: 10px;
+    }
+    .upload-img, .edit-upload-img, .add-certificate-img{
+        width: 200px;
+    }
+}
+
+@media only screen and (max-width: 404px) {
+    button.rotate {
+        margin-left: 0;
+    }
+
+    .search-items {
+        margin-right: 10px;
+    }
+
+    input#fname, input#lname, input#c-pass, input#n-pass, input#rest-password {
+        width: 260px;
+    }
+}
